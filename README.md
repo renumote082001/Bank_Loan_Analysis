@@ -3,7 +3,7 @@
 📊 Bank Loan Analysis | Data Analyst Portfolio Project
 📌 Project Overview
 
-This project focuses on analyzing bank loan data to understand lending performance, borrower behavior, and risk patterns. The objective is to build an end-to-end data analysis solution using SQL Server and Power BI, enabling data-driven decision-making for loan approvals and portfolio management.
+This project focuses on analyzing bank loan data to understand lending performance, borrower behavior, and risk patterns. The objective is to build an end-to-end data analysis solution using MySQL Server and Power BI, enabling data-driven decision-making for loan approvals and portfolio management.
 
 🎯 Problem Statement
 
@@ -14,8 +14,8 @@ The goal of this project is to:
 -Track key KPIs and trends over time
 -Build interactive dashboards for business insights
 🛠️ Tools & Technologies
--MS SQL Server – Data storage, querying, and transformation
--SQL Server Management Studio (SSMS) – Query execution
+-MySQL Server – Data storage, querying, and transformation
+-MySQL Server Management Studio (SSMS) – Query execution
 -Power BI – Data visualization & dashboard creation
 -Excel – Data preprocessing (if required)
 ⚙️ Project Workflow
